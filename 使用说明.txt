@@ -1,0 +1,4 @@
+搭配外卖后台使用（外卖后台github地址https://github.com/HanJiangling/nodejs_project.git）
+1.下载node_modules文件
+2.修改路由文件Userinfo.vue的oss配置
+3.npm start启动项目
